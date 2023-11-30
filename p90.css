@@ -1,0 +1,210 @@
+#barra{
+	width:1340px;
+	height:120px;
+}
+#sla{
+	height:500px;
+	background-color:#287271;
+}
+#bkg{
+	background-image:url("back.jpg");
+	background-position:center;
+	background-repeat:no-repeat;
+	height:450px;
+	border-radius:5px 5px 5px 5px;
+}
+#pa{
+	font-family:Arial;
+	padding-left:300px;
+	height:30px;
+	padding-top:150px;
+}
+#la{
+	padding-left:300px;
+	font-size:18px;
+	font-family:Arial; 
+}
+#nero{
+	display:flex;
+	text-decoration:none;
+	color:blue;
+	justify-content:space-around;
+}
+#dante{
+	font-size:20px;
+	font-family:Arial;
+	 
+	color:white;
+}
+ 
+#ds{
+	padding-left:20px;
+	display:flex;
+	justify-content:center;
+	font-family:Arial;
+	font-size:20px;
+}
+#route{
+	font-size:35px;
+	font-family:Arial;
+	padding-left:30px;
+	padding-top:10px;
+}
+#absolut{
+	
+	padding-left:30px;
+	font-family:Arial;
+	font-size:30px;	
+}
+#wayward{
+	padding-left:20px;
+	background-color:#159005;
+	padding-bottom:20px;
+	padding-top:20px;
+
+}
+@media only handheld and (max-width:400px){
+	#loud{
+		font-size:10px;	
+		font-family:Arial;
+	}
+	#puss{
+		font-size:13px;
+		font-family:Arial;
+	}
+	#dante{
+		font-size:15px;
+		font-family:Arial;
+	}
+}
+@media only screen and (max-width:500px){
+	#loud{
+		font-size:18px;	
+		font-family:Arial;
+	}
+	#puss{
+		font-size:15px;
+		font-family:Arial;
+	}
+	#dante{
+		font-size:15px;
+		font-family:Arial;
+	}
+}
+#zelo{
+	padding-top:36px;
+	padding-left:1000px;
+	color:white;
+	text-decoration:none;
+	font-family:Arial;
+	font-size:24px;
+ 
+
+}
+#trash{
+	padding-left:40px;
+	padding-top:20px;
+	height:400px;
+	width:510px;
+}
+#patches{
+	padding-left:35px;
+	padding-top:30px;
+	height:400px;
+	width:600px;
+}
+#absol{
+	display:flex;
+	 
+}
+#pedrada{
+	color:white;
+	padding-left:30px;
+	padding-top:15px;
+	font-family:Arial;	
+	font-size:24px;
+}
+#read{
+	background-color:#159005;
+	display:flex;
+	flex-direction:flex-start;
+}
+#sentido{
+	padding-top:5px;
+	padding-bottom:5px;
+	margin-left:20px;
+	border-radius:80%;
+	height:90px;
+	width:110px;
+}
+#artic{
+	color:white;
+	font-family:arial;
+}
+#monkeys{
+	color:white;
+}
+#505{
+	color:white;
+	
+}
+#ronni{
+	display:flex;
+	justify-content:center;
+	font-family:Arial;
+	font-size:34px;		
+}
+ 
+#pub{
+	height:410px;
+	margin-left:290px;
+	
+}
+#mygirl{
+	font-family:Arial;
+	font-size:25px;
+}
+#uau{
+	height:180px;
+	width:200px;
+}
+#carol{
+	width:200px;
+	height:100px;
+}
+#brazil{
+	color:white;
+	font-size:30px;
+	padding-top:5px;
+	padding-left:15px;
+	font-family:Arial;
+}
+#carolina{
+	font-family:Arial;
+	font-size:23px;
+}
+#kkrol{
+	font-size:28px;
+	font-family:Arial;
+}
+.grid-container{
+	
+	padding-top:15px;
+	color:white;
+	font-family:Arial;
+	font-size:20px;
+	display:grid;
+	grid-template-rows:repeat(3,200px);
+	grid-template-columns: repeat(4,1fr);
+}
+#IRan{
+	height:600px;
+	background-color:#20AD1F;
+	color:white;
+}
+#christmas{
+	font-family:Arial;
+	text-decoration:none;
+	padding-left:10px;
+	font-size:20px;
+}
