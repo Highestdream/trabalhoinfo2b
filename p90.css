@@ -77,23 +77,12 @@
 		font-family:Arial;
 	}
 }
-@media only screen and (min-width:0px) and (max-width:500px){
+@media only screen and (min-width:0px) and (max-width:800px){
 	#body{
 		display:flex;
 		flex-direction:column;
 		align-items:center;
-	}
-	#loud{
-		font-size:18px;	
-		font-family:Arial;
-	}
-	#puss{
 		font-size:15px;
-		font-family:Arial;
-	}
-	#dante{
-		font-size:15px;
-		font-family:Arial;
 	}
 }
 #zelo{
