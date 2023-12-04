@@ -81,6 +81,7 @@
 	#body{
 		display:flex;
 		flex-direction:column;
+		align-items:center;
 	}
 	#loud{
 		font-size:18px;	
